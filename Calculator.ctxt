@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\n\ class\ Calculator\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\n\n\ @author\ Emile\ Cappelle\n\ @version\ 2025-02-05\n
+comment1.params=
+comment1.target=Calculator()
+comment2.params=a\ b
+comment2.target=double\ add(double,\ double)
+comment3.params=a\ b
+comment3.target=double\ substract(double,\ double)
+comment4.params=a\ b
+comment4.target=double\ multiply(double,\ double)
+comment5.params=a\ b
+comment5.target=double\ divide(double,\ double)
+numComments=6
